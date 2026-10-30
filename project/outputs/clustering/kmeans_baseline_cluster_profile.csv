@@ -1,9 +1,0 @@
-cluster,size,LeadTime,TotalNights,TotalGuests,ADR,PrevCancel,RepeatedGuest,top_segment,top_deposit,top_customer,cancel_rate_(external_check)
-0,5690,119.374,2.789,1.719,81.153,0.0,0.0,Offline TA/TO,No Deposit,Transient-Party,0.193
-1,6309,4.631,1.738,1.619,104.45,0.0,0.0,Online TA,No Deposit,Transient,0.117
-2,467,138.957,3.268,1.878,90.379,1.019,0.0,Online TA,No Deposit,Transient,0.998
-3,807,6.312,1.518,1.343,67.543,0.0,1.0,Corporate,No Deposit,Transient,0.055
-4,5406,83.85,3.208,3.202,170.341,0.0,0.0,Online TA,No Deposit,Transient,0.375
-5,336,23.015,1.985,1.223,66.573,2.452,0.997,Corporate,No Deposit,Transient,0.256
-6,9039,97.217,5.347,1.983,105.015,0.0,0.0,Online TA,No Deposit,Transient,0.358
-7,9237,84.759,2.292,1.922,112.851,0.0,0.0,Online TA,No Deposit,Transient,0.382

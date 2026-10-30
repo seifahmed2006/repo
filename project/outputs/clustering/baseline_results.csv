@@ -1,2 +1,0 @@
-algorithm,config,k,TRAIN_silhouette,TRAIN_davies_bouldin,TRAIN_calinski_harabasz,VAL_silhouette,VAL_davies_bouldin,VAL_calinski_harabasz,inertia,fit_time_s
-kmeans,"baseline (k=8, untuned)",8,0.1622,1.3814,7130.9719,0.1654,1.362,1549.4497,115122.2207,0.5074
