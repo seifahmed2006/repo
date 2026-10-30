@@ -1,0 +1,10 @@
+{
+  "rows_raw": 79330,
+  "duplicates_removed": 25902,
+  "zero_guest_rows_removed": 154,
+  "adr_above_cap_removed": 1,
+  "rows_clean": 53273,
+  "rows_train": 37291,
+  "rows_val": 7991,
+  "rows_test": 7991
+}
