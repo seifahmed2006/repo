@@ -1,0 +1,45 @@
+{
+  "shape": [
+    79330,
+    31
+  ],
+  "duplicates_exact": 25902,
+  "class_balance_IsCanceled": {
+    "0": 0.5827,
+    "1": 0.4173
+  },
+  "adr_zero": 1208,
+  "adr_negative": 0,
+  "adr_max": 5400.0,
+  "adults_zero": 390,
+  "zero_guests": 167,
+  "zero_nights": 331,
+  "high_skew_columns": {
+    "StaysInWeekNights": 2.96,
+    "Children": 4.34,
+    "Babies": 44.78,
+    "IsRepeatedGuest": 6.01,
+    "PreviousCancellations": 16.58,
+    "PreviousBookingsNotCanceled": 23.12,
+    "BookingChanges": 7.25,
+    "DaysInWaitingList": 10.31,
+    "ADR": 23.16,
+    "RequiredCarParkingSpaces": 6.3
+  },
+  "date_range_arrival": [
+    "2015",
+    "2017"
+  ],
+  "cleaning_log": {
+    "rows_raw": 79330,
+    "duplicates_removed": 25902,
+    "zero_guest_rows_removed": 154,
+    "adr_above_cap_removed": 1,
+    "rows_clean": 53273
+  },
+  "room_type_mismatch_rate": 0.0907,
+  "cancel_rate_by_room_mismatch": {
+    "match": 0.3324,
+    "mismatch": 0.0525
+  }
+}

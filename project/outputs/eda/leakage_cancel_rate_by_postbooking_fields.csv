@@ -1,0 +1,17 @@
+bin,feature,mean,size
+0,RequiredCarParkingSpaces,0.312,51383
+1,RequiredCarParkingSpaces,0.0,1885
+2,RequiredCarParkingSpaces,0.0,3
+3+,RequiredCarParkingSpaces,0.0,2
+0,BookingChanges,0.3276,44521
+1,BookingChanges,0.1355,5991
+2,BookingChanges,0.2389,2043
+3+,BookingChanges,0.2047,718
+0,TotalOfSpecialRequests,0.3838,26265
+1,TotalOfSpecialRequests,0.2305,18014
+2,TotalOfSpecialRequests,0.2092,7320
+3+,TotalOfSpecialRequests,0.1619,1674
+0,DaysInWaitingList,0.2998,52558
+1,DaysInWaitingList,0.2857,7
+2,DaysInWaitingList,0.3333,3
+3+,DaysInWaitingList,0.3901,705
