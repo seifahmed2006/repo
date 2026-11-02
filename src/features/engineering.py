@@ -20,5 +20,5 @@ def add_features(df: pd.DataFrame, cfg: dict) -> pd.DataFrame:
     month_num = df["ArrivalDateMonth"].map({m: i + 1 for i, m in enumerate(MONTHS)})
     date = pd.to_datetime(dict(year=df["ArrivalDateYear"], month=month_num,
                                day=df["ArrivalDateDayOfMonth"]), errors="coerce")
-    df["ArrivalWeekday"] = date.dt.weekday                         # 0 = Monday
+    df["ArrivalWeekday"] = date.dt.day_of_week                         # 0 = Monday
     return df
