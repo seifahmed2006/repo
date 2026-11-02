@@ -1,3 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+artifacts/
+*.pkl
+*.joblib
 # Logs
 logs
 *.log
