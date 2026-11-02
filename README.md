@@ -4,7 +4,7 @@
 
 | Item | Value |
 |---|---|
-| GitHub repository | `<PASTE YOUR GITHUB REPO URL HERE>` |
+| GitHub repository | `https://github.com/seifahmed2006/repo` |
 | Submitted commit SHA | `<PASTE `git rev-parse HEAD` OUTPUT HERE>` |
 | Team members / GitHub accounts | `<name – @github_handle>` (4–5 members, each committing from their own account) |
 | Dataset | Hotel Booking Demand – City Hotel **H2.csv** only (79,330 rows × 31 variables). H1 is never used. |
