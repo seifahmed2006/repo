@@ -6,7 +6,7 @@
 |---|---|
 | GitHub repository | `https://github.com/seifahmed2006/repo` |
 | Submitted commit SHA | (to be filled on submission day) |
-| Team members / GitHub accounts | Cherif - @chichochago2109-lgtm; Seif Ahmed - @seifahmed2006; Peter - @handle; Hamza - @handle; Youssef - @handle || Dataset | Hotel Booking Demand – City Hotel **H2.csv** only (79,330 rows × 31 variables). H1 is never used. |
+| Team members / GitHub accounts | Cherif - @chichochago2109-lgtm; Seif Ahmed - @seifahmed2006; Peter hany - @peter199h; Hamza - @HamzaKashmiryy;|| Dataset | Hotel Booking Demand – City Hotel **H2.csv** only (79,330 rows × 31 variables). H1 is never used. |
 
 ## 1. Environment setup
 
